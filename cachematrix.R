@@ -7,7 +7,6 @@
 ## or after changing the old one) and cache the coputed inverse 
 ## to get it when it is needed
 
-
 ## here we Create a an object of a special Type of Matrix as a list of 
 ## this list containing four functions:
 ## set the values of the matrix
